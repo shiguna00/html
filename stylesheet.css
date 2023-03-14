@@ -1,0 +1,38 @@
+h1{
+  color: rgb(115, 186, 189);
+}
+body{
+  margin: 0;
+}
+header{
+  background: #3b3b3b;
+}
+.headerInner{
+  width: 1050px;
+  height: 100px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.headerInner,.mainInner{
+  max-width: 1050px;
+  margin: auto;
+  padding: 0 20px;
+}
+.mainInner{
+  width: 650px;
+  margin: auto;
+}
+.footerInner{
+  text-align: center;
+  margin-top: 700px;
+  padding: 30px
+}
+footer{
+  background: #3b3b3b;
+}
+h5{
+  color: rgb(255, 255, 255);
+}
